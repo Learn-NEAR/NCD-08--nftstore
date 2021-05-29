@@ -1,4 +1,4 @@
-# Token Factory frontend
+# Nft store frontend
 
 `yarn`
 
